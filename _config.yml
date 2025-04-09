@@ -1,0 +1,4 @@
+theme: jekyll-theme-canyon
+pages: write
+id-token: write
+actions: read
