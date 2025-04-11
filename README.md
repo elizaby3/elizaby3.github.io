@@ -7,3 +7,4 @@ Here is a list of some Electrical Engineering and Computer Science related proje
   
 ## Finished Projects
 - [Wireless Weather Station](https://github.com/elizaby3/Weather-Station/blob/main/README.md)
+- [Magic Wand PCB](https://github.com/elizaby3/Magic-Wand-PCB/blob/main/README.md)
