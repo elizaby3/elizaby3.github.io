@@ -2,7 +2,7 @@
 Here is a list of some Electrical Engineering and Computer Science related projects I have worked on recently.
 
 ## Ongoing Projects
-- [RC Rover](https://github.com/elizaby3/RC-Rover/blob/main/README.md)
+- [RC Rover](https://elizaby3.github.io/RC-Rover/)
 - [Duckbots Algorithim Simulation](https://elizaby3.github.io/Duckbot-Algorithim-Testing/)
   
 ## Finished Projects
