@@ -4,4 +4,4 @@ Here is a list of some Electrical Engineering and Computer Science related proje
 ## Ongoing Projects
   
 ## Finished Projects
-- [Wireless Weather Station](https://elizaby3/Weather-Station)
+- [Wireless Weather Station](https://github.com/elizaby3/Weather-Station)
